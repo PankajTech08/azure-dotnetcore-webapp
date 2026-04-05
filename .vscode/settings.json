@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": "azure-functions-app",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net9.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/0dc70c7f-3110-4f68-9977-124ff2382fac/resourceGroups/pkpdotnetcoreapp/providers/Microsoft.Web/sites/pkpdotnetcorewebapp"
+}

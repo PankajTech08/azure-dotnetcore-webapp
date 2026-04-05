@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "my-dotnetcore-webapp": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5001",
+      "sslPort": 5001
+    }
+  }
+}
